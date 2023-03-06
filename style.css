@@ -1,10 +1,10 @@
 body {
   font-family: Helvetica;
-  background-color: hsl(233deg 29% 58%);
+  background-color: hsl(0, 0%, 60%);
   padding: 40px 0px;
 }
 .container {
-  box-shadow: 10px 10px 15px hsl(233, 60%, 84%);
+  box-shadow: 10px 10px 15px hsl(0, 0%, 60%);
   background-color: white;
   width: 960px;
   margin: 0 auto;
@@ -25,7 +25,7 @@ h3 {
 }
 
 span {
-  color: hsl(233deg 29% 58%);
+  color: hsl(0, 0%, 60%);
   display: flex;
 }
 
@@ -58,19 +58,17 @@ address {
 .address-icon {
   width: 16px;
   height: 16px;
-  background-color: hsl(233deg 29% 58%);
+  background-color: hsl(0, 0%, 60%);
   margin-right: 10px;
   padding: 8px;
   vertical-align: middle;
 }
 
-.circle {
-  border-radius: 45%;
-}
 .profile-pictrue {
   width: 180px;
-  height: 180px;
+  height: 230px;
   padding-top: 25px;
+  margin: 0 35px 0 20px;
 }
 .hobbies {
   list-style: none;
@@ -88,30 +86,30 @@ address {
   margin-left: 20px;
 }
 .hobbies p {
-  color: hsl(233deg 29% 58%);
+  color: hsl(0, 0%, 60%);
 }
 p {
   line-height: 1.5;
 }
 .cv-download {
-  border: 2px solid hsl(233deg 29% 58%);
-  color: hsl(233deg 29% 58%);
+  border: 2px solid hsl(0, 0%, 60%);
+  color: hsl(0, 0%, 60%);
   text-decoration: none;
   padding: 10px 20px;
   display: inline-block;
   margin-top: 20px;
   border-radius: 26px;
   transition: background-color 0.5s, color 0.5s;
-  box-shadow: 0 0 15px hsl(233deg 29% 58%);
+  box-shadow: 0 0 15px hsl(0, 0%, 60%);
 }
 .cv-download:hover {
   color: white;
-  background-color: hsl(233deg 29% 58%);
+  background-color: hsl(0, 0%, 60%);
 }
 .cv-download:focus {
   outline: none;
   color: white;
-  background-color: hsl(233deg 29% 58%);
+  background-color: hsl(0, 0%, 60%);
 }
 .cv-download:active {
   text-decoration: underline;
