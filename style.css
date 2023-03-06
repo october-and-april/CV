@@ -4,7 +4,7 @@ body {
   padding: 40px 0px;
 }
 .container {
-  box-shadow: 10px 10px 15px hsl(0, 0%, 60%);
+  box-shadow: 10px 10px 15px hsl(0, 0%, 37%);
   background-color: white;
   width: 960px;
   margin: 0 auto;
@@ -103,7 +103,7 @@ p {
   box-shadow: 0 0 15px hsl(0, 0%, 60%);
 }
 .cv-download:hover {
-  color: white;
+  color: rgb(255, 255, 255);
   background-color: hsl(0, 0%, 60%);
 }
 .cv-download:focus {
